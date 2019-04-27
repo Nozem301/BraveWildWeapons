@@ -1,0 +1,2 @@
+# bravewildweapons
+Brave Wild Weapons (BWW for short) is a Minecraft mod for 1.12 based on the critically acclaimed game 'The Legend of Zelda: Breath of the Wild'. It currently adds more than 50 weapons including spears, claymores and swords with still well over 100 to come! When the mod is finished, it's planned for there to be over 70 mobs, 50 armor sets, over 30 unique bows, over 30 unique shields and multiple unique mechanics and structures.
