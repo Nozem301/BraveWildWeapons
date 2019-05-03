@@ -1,0 +1,6 @@
+{
+  "parent": "bww:item/travelers_bow",
+  "textures": {
+    "layer0": "bww:items/travelers_bow_pulling_1"
+  }
+}
