@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "bww:items/dragonbone_boko_club"
+   }
+}
