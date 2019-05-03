@@ -1,0 +1,89 @@
+//Items
+item.ancient_core.name=Ancient Core
+item.chuchu_jelly.name=Chuchu Jelly
+item.korok_stick.name=Korok Stick
+item.silver_zora_ingot.name=Silver Zora Ingot
+
+//Creative Tabs
+itemGroup.bww.BraveWildWeaponsTab=BWW - One-Handed Weapons
+itemGroup.bww.BraveWildMaterialsTab=BWW - Materials
+itemGroup.bww.BraveWildBowsTab=BWW - Bows
+itemGroup.bww.BraveWildTwoHandedWeaponsTab=BWW - Two-Handed Weapons
+itemGroup.bww.BraveWildSpearsTab=BWW - Spears
+
+//Blocks
+tile.silver_zora_ore_block.name=Silver Zora Ore
+tile.korok_planks_block.name=Korok Planks
+
+//Tools
+item.traveler_sword.name=Traveler's Sword
+item.feathered_edge.name=Feathered Edge
+item.ancient_short_sword.name=Ancient Short Sword
+item.awakened_master_sword.name=Awakened Master Sword
+item.boko_club.name=Boko Club
+item.eightfold_blade.name=Eightfold Blade
+item.flame_blade.name=Flame Blade
+item.forest_dweller_sword.name=Forest Dweller's Sword
+item.frost_blade.name=Frost Blade
+item.gerudo_scimitar.name=Gerudo Scimitar
+item.knights_broadsword.name=Knight's Broadsword
+item.zora_sword.name=Zora Sword
+item.traveler_spear.name=Traveler's Spear
+item.traveler_claymore.name=Traveler's Claymore
+item.lynel_sword.name=Lynel Sword
+item.royal_broadsword.name=Royal Broadsword
+item.royalguard_sword.name=Royal Guard's Sword
+item.rusty_broadsword.name=Rusty Broadsword
+item.soldier_broadsword.name=Soldier's Broadsword
+item.spiked_boko_club.name=Spiked Boko Club
+item.guardian_sword_1.name=Guardian Sword
+item.guardian_sword_2.name=Guardian Sword+
+item.guardian_sword_3.name=Guardian Sword++
+item.thunder_blade.name=Thunder Blade
+item.tree_branch.name=Tree Branch
+item.soldier_claymore.name=Soldier's Claymore
+item.soldier_spear.name=Soldier's Spear
+item.goddess_sword.name=Goddess Sword
+item.hero_sword.name=Hero's Sword
+item.knights_halberd.name=Knight's Halberd
+item.royal_halberd.name=Royal Halberd
+item.royal_guard_spear.name=Royal Guard's Spear
+item.dragonbone_boko_club.name=Dragonbone Boko Club
+item.master_sword.name=Master Sword
+item.moonlight_scimitar.name=Moonlight Scimitar
+item.woodcutter_axe.name=Woodcutter's Axe
+item.knight_claymore.name=Knight's Claymore
+item.royal_claymore.name=Royal Claymore
+item.royal_guard_claymore.name=Royal Guard's Claymore
+item.boomerang.name=Boomerang
+item.springloaded_hammer.name=Spring-Loaded Hammer
+item.scimitar_of_the_seven.name=Scimitar of the Seven
+item.seabreeze_boomerang.name=Seabreeze Boomerang
+item.fire_rod.name=Fire Rod
+item.vicious_sickle.name=Vicious Sickle
+item.demon_carver.name=Demon Carver
+item.soup_ladle.name=Soup Ladle
+item.mighty_lynel_sword.name=Mighty Lynel Sword
+item.savage_lynel_sword.name=Savage Lynel Sword
+item.meteor_rod.name=Meteor Rod
+item.rusty_claymore.name=Rusty Claymore
+item.travelers_bow.name=Traveler's Bow
+item.double_axe.name=Double Axe
+item.iron_sledgehammer.name=Iron Sledgehammer
+item.biggoron_sword.name=Biggoron Sword
+item.edge_of_duality.name=Edge of Duality
+item.great_flameblade.name=Great Flameblade
+item.forest_dweller_spear.name=Forest Dweller's Spear
+item.fishing_harpoon.name=Fishing Harpoon
+item.eightfold_longblade.name=Eightfold Longblade
+item.golden_claymore.name=Golden Claymore
+item.great_frostblade.name=Great Frostblade
+item.throwing_spear.name=Throwing Spear
+
+//Armor
+item.champion_tunic_chestplate.name=Champion's Tunic
+item.champion_tunic_leggings.name=Champion's Tunic Leggings
+item.champion_tunic_boots.name=Champion's Tunic Boots
+
+//Descriptions
+item.traveler_sword.desc=A very common sword often kept by travelers to fend off small beasts.
